@@ -1,0 +1,30 @@
+Tech Companies Data Analysis Report (Improved)
+1. Objective
+
+To analyze performance of global technology companies based on revenue, profit, and workforce, and identify efficiency patterns.
+
+2. Data Cleaning
+Removed symbols ($, commas) from revenue and profit columns
+Converted financial data into numeric format
+Cleaned employee data and converted to integer
+Checked for missing and duplicate values
+3. Key Analysis
+Industry & Country Distribution
+Majority of companies are concentrated in a few countries
+Indicates geographic dominance in tech industry
+Top Companies by Revenue & Profit
+Top companies dominate total revenue and profit
+However, high revenue does not always translate into high profit
+Employees vs Revenue
+Positive relationship exists
+Some companies generate high revenue with fewer employees
+👉 Indicates higher efficiency
+Profit Margin Analysis
+Profit margin calculated to evaluate efficiency
+Smaller companies sometimes outperform larger ones
+👉 Efficiency > size
+4. Conclusion
+Tech industry shows strong competition
+Large companies dominate scale
+Efficient companies outperform in profitability
+Profit margin is a key indicator of performance
